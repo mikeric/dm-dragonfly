@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = "dm-dragonfly"
-  s.version     = "0.1.0"
+  s.version     = "0.1.1"
   s.authors     = ["Mike Richards"]
   s.date        = "2011-08-08"
   s.description = "DataMapper extensions to support Dragonfly"
