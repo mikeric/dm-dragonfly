@@ -2,9 +2,9 @@
 
 Gem::Specification.new do |s|
   s.name        = "dm-dragonfly"
-  s.version     = "0.0.2"
+  s.version     = "0.1.0"
   s.authors     = ["Mike Richards"]
-  s.date        = "2011-05-05"
+  s.date        = "2011-08-08"
   s.description = "DataMapper extensions to support Dragonfly"
   s.summary     = "DataMapper extensions to support Dragonfly"
   s.homepage    = "http://github.com/mikeric/dm-dragonfly"
@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   
   s.files = ["lib/dm-dragonfly.rb"]
   
-  s.required_rubygems_version = ">= 1.6.0"
+  s.required_rubygems_version = ">= 1.3.6"
   
   s.add_dependency "dragonfly", ["~> 0.9.0"]
 end
